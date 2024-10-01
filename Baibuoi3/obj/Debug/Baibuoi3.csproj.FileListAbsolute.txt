@@ -1,0 +1,11 @@
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\bin\Debug\Baibuoi3.exe.config
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\bin\Debug\Baibuoi3.exe
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\bin\Debug\Baibuoi3.pdb
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\obj\Debug\Baibuoi3.csproj.AssemblyReference.cache
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\obj\Debug\Baibuoi3.Form1.resources
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\obj\Debug\Baibuoi3.Nhân_Viên.resources
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\obj\Debug\Baibuoi3.Properties.Resources.resources
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\obj\Debug\Baibuoi3.csproj.GenerateResource.cache
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\obj\Debug\Baibuoi3.csproj.CoreCompileInputs.cache
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\obj\Debug\Baibuoi3.exe
+C:\Users\THIEN Y\source\repos\Baibuoi3\Baibuoi3\obj\Debug\Baibuoi3.pdb

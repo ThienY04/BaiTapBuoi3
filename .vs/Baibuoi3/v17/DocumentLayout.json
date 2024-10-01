@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC4D59-44BE-45AD-80B9-36A729DB73DC}|Baibuoi3\\Baibuoi3.csproj|c:\\users\\thien y\\source\\repos\\baibuoi3\\baibuoi3\\list view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7DC4D59-44BE-45AD-80B9-36A729DB73DC}|Baibuoi3\\Baibuoi3.csproj|solutionrelative:baibuoi3\\list view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC4D59-44BE-45AD-80B9-36A729DB73DC}|Baibuoi3\\Baibuoi3.csproj|C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\baibuoi3\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7DC4D59-44BE-45AD-80B9-36A729DB73DC}|Baibuoi3\\Baibuoi3.csproj|solutionrelative:baibuoi3\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC4D59-44BE-45AD-80B9-36A729DB73DC}|Baibuoi3\\Baibuoi3.csproj|C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\baibuoi3\\list view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC4D59-44BE-45AD-80B9-36A729DB73DC}|Baibuoi3\\Baibuoi3.csproj|solutionrelative:baibuoi3\\list view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC4D59-44BE-45AD-80B9-36A729DB73DC}|Baibuoi3\\Baibuoi3.csproj|C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\baibuoi3\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC4D59-44BE-45AD-80B9-36A729DB73DC}|Baibuoi3\\Baibuoi3.csproj|solutionrelative:baibuoi3\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nh\u00E2n Vi\u00EAn.cs",
+              "DocumentMoniker": "C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\Baibuoi3\\Nh\u00E2n Vi\u00EAn.cs",
+              "RelativeDocumentMoniker": "Baibuoi3\\Nh\u00E2n Vi\u00EAn.cs",
+              "ToolTip": "C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\Baibuoi3\\Nh\u00E2n Vi\u00EAn.cs",
+              "RelativeToolTip": "Baibuoi3\\Nh\u00E2n Vi\u00EAn.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:11:15.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List View.cs",
+              "DocumentMoniker": "C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\Baibuoi3\\List View.cs",
+              "RelativeDocumentMoniker": "Baibuoi3\\List View.cs",
+              "ToolTip": "C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\Baibuoi3\\List View.cs",
+              "RelativeToolTip": "Baibuoi3\\List View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:01:56.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nh\u00E2n Vi\u00EAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\Baibuoi3\\Nh\u00E2n Vi\u00EAn.cs",
+              "RelativeDocumentMoniker": "Baibuoi3\\Nh\u00E2n Vi\u00EAn.cs",
+              "ToolTip": "C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\Baibuoi3\\Nh\u00E2n Vi\u00EAn.cs [Design]",
+              "RelativeToolTip": "Baibuoi3\\Nh\u00E2n Vi\u00EAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:56:02.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List View.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\Baibuoi3\\List View.cs",
+              "RelativeDocumentMoniker": "Baibuoi3\\List View.cs",
+              "ToolTip": "C:\\Users\\THIEN Y\\source\\repos\\Baibuoi3\\Baibuoi3\\List View.cs [Design]",
+              "RelativeToolTip": "Baibuoi3\\List View.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:50:48.368Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
